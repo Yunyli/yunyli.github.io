@@ -411,8 +411,8 @@ ninja.data = [{
           section: "News",},{id: "news-our-latest-work-pie-partially-interpretable-estimators-with-refinement-is-published-in-the-informs-journal-on-computing",
           title: 'Our latest work, “PIE—Partially Interpretable Estimators with Refinement”, is published in the INFORMS...',
           description: "",
-          section: "News",},{id: "news-our-latest-work-pie-partially-interpretable-estimators-with-refinement-is-published-in-the-informs-journal-on-computing",
-          title: 'Our latest work, “PIE—Partially Interpretable Estimators with Refinement”, is published in the INFORMS...',
+          section: "News",},{id: "news-my-job-market-paper-on-bias-aware-mislabeling-detection-via-decoupled-confident-learning-decole-received-a-major-revision-at-information-systems-research-isr-excited-to-keep-improving-the-work",
+          title: 'My job market paper on Bias-Aware Mislabeling Detection via Decoupled Confident Learning (DeCoLe)...',
           description: "",
           section: "News",},{
         id: 'social-linkedin',
