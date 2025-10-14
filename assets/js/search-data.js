@@ -408,7 +408,7 @@ ninja.data = [{
             },},{id: "news-i-am-invited-to-present-my-latest-research-at-the-21st-big-xii-mis-research-symposium",
           title: 'I am invited to present my latest research at the 21st Big XII...',
           description: "",
-          section: "News",},{id: "news-our-latest-work-pie-partially-interpretable-estimators-with-refinement-is-published-in-the-informs-journal-on-computing-ijoc",
+          section: "News",},{id: "news-our-latest-work-pie-partially-interpretable-estimators-with-refinement-is-published-in-the-informs-journal-on-computing",
           title: 'Our latest work, “PIE—Partially Interpretable Estimators with Refinement”, is published in the INFORMS...',
           description: "",
           section: "News",},{id: "news-my-job-market-paper-on-bias-aware-mislabeling-detection-via-decoupled-confident-learning-decole-received-a-major-revision-at-information-systems-research-isr-excited-to-keep-improving-the-work",
