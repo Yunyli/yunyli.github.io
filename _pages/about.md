@@ -25,4 +25,11 @@ Welcome! I am Yunyi Li, an Assistant Professor in the Department of Information 
 
 My research focuses on advancing **trustworthy AI** with the goal of maximizing the positive societal impact of social-technical systems while mitigating their potential harms. Motivated by the risks of overlooking [**label bias**](https://www.ams.org/journals/notices/202408/noti2941/noti2941.html?adat=September%202024&trk=2941&pdfissue=202408&pdffile=rnoti-p1069.pdf&cat=none&type=.html), one strand of my work [characterizes its harmful effects](https://ojs.aaai.org/index.php/HCOMP/article/view/21994) and develops strategies to mitigate them, fostering data integrity in an increasingly data-dependent world. More broadly, my work bridges the domains of **data integrity**, **algorithmic fairness**, **human-AI interaction**, and **interpretable machine learning**, with the overarching goal of enhancing the trustworthiness of socio-technical systems to better serve both organizations and society.
 
+## Recruitment
+
+I am looking for motivated [PhD students / research assistants /
+research fellows] interested in trustworthy AI, data integrity,
+algorithmic fairness, and human–AI collaboration to join my research
+group at the National University of Singapore. To apply, please send your CV and a brief statement of
+research interests to [your email address](mailto:your-email@nus.edu.sg). Preference will be given to applicants with strong publication records and experience in AI agents harnesses, machine learning, or human behavioral theory.
 
