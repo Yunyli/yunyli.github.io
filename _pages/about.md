@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Ph.D. Candidate, McCombs School of Business, The University of Texas at Austin
+subtitle: Assistant Professor, Department of Information Systems and Analytics, National University of Singapore
 
 profile:
   align: right
@@ -28,5 +28,5 @@ My research focuses on advancing **trustworthy AI** with the goal of maximizing 
 I am looking for motivated research assistants and
 research fellows interested in trustworthy AI, data integrity,
 algorithmic fairness, and human–AI collaboration to join my research
-group at the National University of Singapore. Preference will be given to applicants with strong publication records and experience in AI agents harnesses, machine learning, or theories of human behavior.
+group at the National University of Singapore. Preference will be given to applicants with strong publication records and experience in AI agent, machine learning, or theories of human behavior.
 
