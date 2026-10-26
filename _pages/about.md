@@ -31,5 +31,5 @@ I am looking for motivated [PhD students / research assistants /
 research fellows] interested in trustworthy AI, data integrity,
 algorithmic fairness, and human–AI collaboration to join my research
 group at the National University of Singapore. To apply, please send your CV and a brief statement of
-research interests to [your email address](mailto:your-email@nus.edu.sg). Preference will be given to applicants with strong publication records and experience in AI agents harnesses, machine learning, or human behavioral theory.
+research interests to [your email address](mailto:your-email@nus.edu.sg). Preference will be given to applicants with strong publication records and experience in AI agents harnesses, machine learning, or theories of human behavior.
 
